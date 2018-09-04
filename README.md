@@ -2,7 +2,8 @@
 resources that are deemed useful
 
 # Interactive java applications ot learn about stats and concepts
-https://ncase.me/
+nicky case  
+https://ncase.me/  
 game theory, wisdom of crowd, networks, simulation of loop systems, neurons, etc
 
 # Stats
